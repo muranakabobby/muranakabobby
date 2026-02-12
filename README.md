@@ -7,7 +7,7 @@ I'm Amirun, a Diploma in Information Technology student at HELP University, pass
 - 👯 I’m looking to collaborate on open-source projects or internships where I can apply my skills in real-world industry settings.
 - 🤔 I’m looking for help with gaining exposure to DevOps practices and cloud technologies.
 - 💬 Ask me about building websites with HTML/CSS, mobile apps in Kotlin, or effective teamwork in tech projects.
-- 📫 How to reach me: [Insert your LinkedIn profile or email here]
+- 📫 How to reach me: (https://www.linkedin.com/in/amirun-hisham-b78368324/)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I once built a fitness app with a partner that gamified workouts to keep users motivated!
 
